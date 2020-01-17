@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <RibbonBar BuiltinTheme="0" Font="FaceName:Tahoma; TextSize:10" >
   <RibbonItems>
-    <ApplicationButton Text="Sales CRM Demo" Enabled="true" Tag="MyApp">
+    <ApplicationButton Text="Sales CRM Demo for Testing" Enabled="true" Tag="MyApp">
       <ApplicationMenu>
         <Master>
           <Item Text="Settings" PictureName="AccountSettingsBig!" Checked="false" Enabled="true" Tag="Settings"  Type="0" Clicked="ue_MasterMenuClicked" Selected="ue_MasterMenuSelected" />
